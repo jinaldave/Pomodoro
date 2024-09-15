@@ -1,12 +1,7 @@
-# Pomodoro Timer Starter files
-
-Here lies the starter files for the Pomodoro timer tutorial which can be found
-here: https://freshman.tech/pomodoro-timer
-
 ## Live demo
 
 The completed version of this project is live at
-https://freshman-pomodoro.surge.sh/
+https://jinaldave.github.io/Pomodoro/
 
 ## Prerequisites
 
@@ -22,8 +17,5 @@ npm v6.14.5
 Clone this repository to your local machine with:
 
 ```bash
-$ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
+$ git clone https://github.com/Pomodoro/pomodoro.git
 ```
-
-`cd` into the downloaded directory and follow along with the
-[tutorial](https://freshman.tech/pomodoro-timer/).
